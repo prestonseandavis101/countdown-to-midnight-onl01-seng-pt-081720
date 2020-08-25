@@ -1,6 +1,6 @@
 def countdown(num)
   while num >=1
-  puts #{num}
+  puts #{num} SECONDS
   
 end
 end
